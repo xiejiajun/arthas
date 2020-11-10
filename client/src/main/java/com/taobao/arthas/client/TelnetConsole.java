@@ -40,6 +40,7 @@ import jline.console.ConsoleReader;
 import jline.console.KeyMap;
 
 /**
+ * TODO 用于和远程的attach到目标JVM的Arthas进程交互
  * @author ralf0131 2016-12-29 11:55.
  * @author hengyunabc 2018-11-01
  */
